@@ -1,1 +1,2 @@
 # PRODIGY_SD_03
+The Java Contact Management System is a console-based application designed to manage contacts efficiently. This application uses a MySQL database to store contact information, allowing users to perform various operations such as adding, updating, deleting, and retrieving contact details. It provides a seamless and organized solution for maintaining a list of contacts in a business or personal setting.
